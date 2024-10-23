@@ -10,6 +10,7 @@ import FooterComponent from "./components/FooterComponent";
 function App() {
     return (
       <>
+        <h1>Hello</h1>
         <NewsletterComponent/>
         <ServicesComponent/>
         <BlogComponent/>
