@@ -5,7 +5,7 @@ import "../styles.css";
 const faqs = [
   { question: "What services do you offer?", answer: "We offer marketing consulting, advertising, and SEO optimization." },
   { question: "How can I subscribe to the newsletter?", answer: "You can subscribe using the form in the newsletter section." },
-  { question: "Can I cancel my subscription?", answer: "Yes, you can unsubscribe at any time." },
+
 ];
 
 const FAQComponent = () => {
